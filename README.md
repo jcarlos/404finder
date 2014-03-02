@@ -3,16 +3,24 @@
 
 A small Ruby script to check many URLs in parallel for 404 errors.
 
-Installation:
+Installation
+-------------
+```
 bundle install
+```
 
-Input:
+Input
+------
 See urls.csv
 
-Output:
+Output
+-------
 See urls_output.csv
 
-Usage:
+Usage
+------
+```
 ruby find404.rb
+```
 
 More improvements to come soon!
